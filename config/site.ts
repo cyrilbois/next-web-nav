@@ -89,6 +89,12 @@ export const NavData: NavData[] = [
         title: "Apifox",
         desc: "API 文档、API 调试、API Mock、API 自动化测试",
         link: "https://www.apifox.cn/"
+      },
+      {
+        icon: "https://jsoning.com/favicon-192x192.png",
+        title: "JSONing",
+        desc: "API Mock，以及各种 JSON 工具",
+        link: "https://jsoning.com/"
       }
     ]
   },
